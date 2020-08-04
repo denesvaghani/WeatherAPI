@@ -7,8 +7,24 @@ It Provides 3 Details about Weather
 
 # APIs
 
-To find Public IP Address 
+To find Longitude and Latitude from the Ip Address - api.ipstack.com
 
- To find Longitude and Latitude from the Ip Address
+To find Weather from the positions - api.openweathermap.org
 
-To find Weather from the positions
+# Properties 
+
+Weather API Details
+
+=====================================
+WeatherAPI = https://api.openweathermap.org/data/2.5/weather
+LatitudeParam = ?lat=
+LongitudeParam = &lon=
+Weathertoken = &appid=
+WeatherAPIKey = <your API KEY>
+=====================================
+
+Location API Details 
+=====================================
+ipApi=http://api.ipstack.com/
+Iptoken=?access_key= <your API KEY>
+=====================================
