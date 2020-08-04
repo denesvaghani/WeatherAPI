@@ -15,16 +15,15 @@ To find Weather from the positions - api.openweathermap.org
 
 Weather API Details
 
-=====================================
 WeatherAPI = https://api.openweathermap.org/data/2.5/weather
 LatitudeParam = ?lat=
 LongitudeParam = &lon=
 Weathertoken = &appid=
 WeatherAPIKey = <your API KEY>
-=====================================
+
 
 Location API Details 
-=====================================
+
 ipApi=http://api.ipstack.com/
 Iptoken=?access_key= <your API KEY>
-=====================================
+
