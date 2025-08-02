@@ -1,3 +1,5 @@
+This project is Depricated now
+
 # WeatherAPI
 It Provides 3 Details about Weather 
 
